@@ -32,7 +32,11 @@ npm install zerox
 
 Zerox uses `graphicsmagick` and `ghostscript` for the pdf => image processing step. These should be pulled automatically, but you may need to manually install.
 
+Note: The node version does not have a frontend built in.
+
 ## Usage
+
+The node version focuses on backend functionality.
 
 **With file URL**
 
